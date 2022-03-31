@@ -1,0 +1,74 @@
+.footer-login {
+  position: fixed;
+  /* padding: 12px 0; */
+  text-align: center;
+  bottom: 0;
+  background-color: #101010;
+  color: #9d9d9d;
+  width: 100%;
+}
+.footer {
+  /* position: fixed; */
+  padding: 12px 0;
+  text-align: center;
+  bottom: 0;
+  background-color: #101010;
+  color: #9d9d9d;
+  width: 100%;
+}
+.panel-margin {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.text-centre {
+  text-align: center;
+}
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 550;
+}
+#content {
+  min-height: 600px;
+}
+.color {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.thumbnail .caption {
+  padding: 0px;
+  color: #333;
+}
+.thumbnail1 {
+  overflow: auto;
+  padding: 20px 0 0 20px;
+}
+.modal-footer {
+  background-color: #f9f9f9;
+}
+#login-panel .panel-footer {
+  font-weight: normal;
+}
+.navbar-brand {
+  font-size: 20px;
+}
+@media (max-width: 768px) {
+  #banner_content {
+    padding-bottom: 15%;
+  }
+  footer {
+    text-align: left;
+  }
+}
